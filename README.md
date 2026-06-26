@@ -1,5 +1,5 @@
 # Future Interns – Prompt Engineering Task 1
-# Brewed Bliss Café — AI Website Copy Generator (Prompt Engineering System)
+# Brewed Bliss Cafe — AI Website Copy Generator (Prompt Engineering System)
 
 A structured AI prompt engineering system that generates complete, ready-to-use website copy for local businesses. Built using **Brewed Bliss Cafe** (Jubilee Hills, Hyderabad) as the primary case study, with the same prompt templates tested across two additional business types (a dental clinic and a gym) to prove reusability.
 
@@ -49,7 +49,7 @@ To prove the prompt system is adaptable for multiple clients, every prompt was r
 
 | Business | Type | Tone |
 |---|---|---|
-| Brewed Bliss Café | Café | Friendly |
+| Brewed Bliss Cafe | Cafe | Friendly |
 | Apollo Dental Clinic | Clinic | Professional |
 | FitForce Gym | Gym | Confident |
 
