@@ -1,9 +1,9 @@
 # Future Interns – Prompt Engineering Task 1
-# Brewed Bliss Cafe — AI Website Copy Generator (Prompt Engineering System)
+# Brewed Bliss Cafe - AI Website Copy Generator (Prompt Engineering System)
 
 A structured AI prompt engineering system that generates complete, ready-to-use website copy for local businesses. Built using **Brewed Bliss Cafe** (Jubilee Hills, Hyderabad) as the primary case study, with the same prompt templates tested across two additional business types (a dental clinic and a gym) to prove reusability.
 
-Built for the **Future Interns 2026 — Prompt Engineering Internship**.
+Built for the **Future Interns 2026 - Prompt Engineering Internship**.
 
 ---
 
@@ -14,7 +14,7 @@ Built for the **Future Interns 2026 — Prompt Engineering Internship**.
 | **Name** | Brewed Bliss Cafe |
 | **Type** | Specialty cafe — coffee, bakes, work-friendly space, private events |
 | **Location** | Jubilee Hills, Hyderabad, India |
-| **Audience** | Young professionals, students, work-from-café regulars |
+| **Audience** | Young professionals, students, work-from-cafe regulars |
 
 This is a fictional business created for the purpose of this internship project.
 
@@ -58,9 +58,9 @@ To prove the prompt system is adaptable for multiple clients, every prompt was r
 
 ## Tool Used
 
-Claude
-Chatgpt
-Lovable
+1. Claude
+2. Chatgpt
+3. Lovable
 
 ---
 
