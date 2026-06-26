@@ -11,8 +11,8 @@ Built for the **Future Interns 2026 — Prompt Engineering Internship**.
 
 | | |
 |---|---|
-| **Name** | Brewed Bliss Café |
-| **Type** | Specialty café — coffee, bakes, work-friendly space, private events |
+| **Name** | Brewed Bliss Cafe |
+| **Type** | Specialty cafe — coffee, bakes, work-friendly space, private events |
 | **Location** | Jubilee Hills, Hyderabad, India |
 | **Audience** | Young professionals, students, work-from-café regulars |
 
