@@ -53,7 +53,6 @@ To prove the prompt system is adaptable for multiple clients, every prompt was r
 | Apollo Dental Clinic | Clinic | Professional |
 | FitForce Gym | Gym | Confident |
 
-The full side-by-side outputs are in `outputs/tone_adaptation_examples.md`.
 
 ---
 
