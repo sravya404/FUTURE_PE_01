@@ -22,10 +22,10 @@ This is a fictional business created for the purpose of this internship project.
 
 ## What This System Generates
 
-- **Homepage Copy** — Headline, sub-headline, intro section
-- **Services Page Content** — Service names, what's included, pricing, why-choose-this copy
-- **CTA Sections** — Location-based CTA, trust-building CTA, urgency/booking CTA
-- **Tone Adaptation** — Every prompt supports friendly / professional / confident tone, tested across 3 different business types
+- **Homepage Copy** - Headline, sub-headline, intro section
+- **Services Page Content** - Service names, what's included, pricing, why-choose-this copy
+- **CTA Sections** - Location-based CTA, trust-building CTA, urgency/booking CTA
+- **Tone Adaptation** - Every prompt supports friendly / professional / confident tone, tested across 3 different business types
 
 ---
 
@@ -33,11 +33,11 @@ This is a fictional business created for the purpose of this internship project.
 
 Every prompt in this system follows the same five-part structure:
 
-1. **Role** — assigns the AI a specific expert role (e.g. "You are a website copywriter for small businesses")
-2. **Variables** — business name, type, location, audience, and tone are passed in as fill-in fields (e.g. `[BUSINESS_NAME]`, `[TONE]`), so the same prompt works for any client
-3. **Rules** — explicit constraints: word limits, banned generic phrases ("world-class", "crafted with love", "passionate"), required structure
-4. **Tone guide** — defines exactly what friendly / professional / confident means in terms of sentence length, word choice, and register, so the AI doesn't blend tones
-5. **Output format** — a fixed structure (e.g. `HEADLINE: / SUB-HEADLINE: / BUTTON:`) so every output is copy-paste ready for a real website
+1. **Role** - assigns the AI a specific expert role (e.g. "You are a website copywriter for small businesses")
+2. **Variables** - business name, type, location, audience, and tone are passed in as fill-in fields (e.g. `[BUSINESS_NAME]`, `[TONE]`), so the same prompt works for any client
+3. **Rules** - explicit constraints: word limits, banned generic phrases ("world-class", "crafted with love", "passionate"), required structure
+4. **Tone guide** - defines exactly what friendly / professional / confident means in terms of sentence length, word choice, and register, so the AI doesn't blend tones
+5. **Output format** - a fixed structure (e.g. `HEADLINE: / SUB-HEADLINE: / BUTTON:`) so every output is copy-paste ready for a real website
 
 This structure is what keeps the output **business-specific instead of generic** — every prompt requires real details (actual menu items, actual address, actual price range) rather than letting the AI default to filler language.
 
@@ -59,9 +59,9 @@ The full side-by-side outputs are in `outputs/tone_adaptation_examples.md`.
 
 ## Tool Used
 
-**Claude** 
-**Chatgpt**
-**Lovable**
+Claude
+Chatgpt
+Lovable
 
 ---
 
@@ -77,7 +77,7 @@ The full side-by-side outputs are in `outputs/tone_adaptation_examples.md`.
 
 ## Final Deliverable
 
-- Complete AI-generated website copy set for Brewed Bliss Café (homepage, services, CTAs)
+- Complete AI-generated website copy set for Brewed Bliss Cafe (homepage, services, CTAs)
 - 8 structured, reusable prompt templates
 - Generated outputs for 3 different business types proving adaptability
 - This README
