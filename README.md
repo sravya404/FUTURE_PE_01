@@ -1,4 +1,4 @@
-# Future Interns – Prompt Engineering Task 1
+# Future Interns - Prompt Engineering Task 1
 # Brewed Bliss Cafe - AI Website Copy Generator (Prompt Engineering System)
 
 A structured AI prompt engineering system that generates complete, ready-to-use website copy for local businesses. Built using **Brewed Bliss Cafe** (Jubilee Hills, Hyderabad) as the primary case study, with the same prompt templates tested across two additional business types (a dental clinic and a gym) to prove reusability.
@@ -39,11 +39,11 @@ Every prompt in this system follows the same five-part structure:
 4. **Tone guide** - defines exactly what friendly / professional / confident means in terms of sentence length, word choice, and register, so the AI doesn't blend tones
 5. **Output format** - a fixed structure (e.g. `HEADLINE: / SUB-HEADLINE: / BUTTON:`) so every output is copy-paste ready for a real website
 
-This structure is what keeps the output **business-specific instead of generic** — every prompt requires real details (actual menu items, actual address, actual price range) rather than letting the AI default to filler language.
+This structure is what keeps the output **business-specific instead of generic** - every prompt requires real details (actual menu items, actual address, actual price range) rather than letting the AI default to filler language.
 
 ---
 
-## Reusability — Tested Across 3 Business Types
+## Reusability - Tested Across 3 Business Types
 
 To prove the prompt system is adaptable for multiple clients, every prompt was run unchanged (only variables swapped) against three different businesses:
 
@@ -69,7 +69,7 @@ To prove the prompt system is adaptable for multiple clients, every prompt was r
 - ✅ Clear, benefit-driven website copy - every output leads with what the customer gains
 - ✅ Business-specific language - real locations, real menu/service items, real pricing
 - ✅ Strong calls-to-action - every CTA includes a heading, supporting copy, and an action-oriented button label
-- ✅ Adaptable prompts - the same 8 prompts work for any local business by changing 4–5 variables
+- ✅ Adaptable prompts - the same prompts work for any local business by changing 4–5 variables
 - ✅ Content ready for real websites - structured output can be pasted directly into website builders (Lovable, Framer, v0, Wix) or a hand-coded site
 
 ---
