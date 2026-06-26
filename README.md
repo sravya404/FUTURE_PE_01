@@ -12,7 +12,7 @@ Built for the **Future Interns 2026 - Prompt Engineering Internship**.
 | | |
 |---|---|
 | **Name** | Brewed Bliss Cafe |
-| **Type** | Specialty cafe — coffee, bakes, work-friendly space, private events |
+| **Type** | Specialty cafe - coffee, bakes, work-friendly space, private events |
 | **Location** | Jubilee Hills, Hyderabad, India |
 | **Audience** | Young professionals, students, work-from-cafe regulars |
 
@@ -66,19 +66,19 @@ To prove the prompt system is adaptable for multiple clients, every prompt was r
 
 ## Key Features Demonstrated
 
-- ✅ Clear, benefit-driven website copy — every output leads with what the customer gains
-- ✅ Business-specific language — real locations, real menu/service items, real ₹ pricing
-- ✅ Strong calls-to-action — every CTA includes a heading, supporting copy, and an action-oriented button label
-- ✅ Adaptable prompts — the same 8 prompts work for any local business by changing 4–5 variables
-- ✅ Content ready for real websites — structured output can be pasted directly into website builders (Lovable, Framer, v0, Wix) or a hand-coded site
+- ✅ Clear, benefit-driven website copy - every output leads with what the customer gains
+- ✅ Business-specific language - real locations, real menu/service items, real pricing
+- ✅ Strong calls-to-action - every CTA includes a heading, supporting copy, and an action-oriented button label
+- ✅ Adaptable prompts - the same 8 prompts work for any local business by changing 4–5 variables
+- ✅ Content ready for real websites - structured output can be pasted directly into website builders (Lovable, Framer, v0, Wix) or a hand-coded site
 
 ---
 
 ## Final Deliverable
 
 - Complete AI-generated website copy set for Brewed Bliss Cafe (homepage, services, CTAs)
-- 8 structured, reusable prompt templates
-- Generated outputs for 3 different business types proving adaptability
+- Structured, reusable prompt templates
+- Generated outputs 
 - This README
 
 ---
